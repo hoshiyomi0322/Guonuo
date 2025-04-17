@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"轉移大廳","order":6,"parentId":3,"scrollX":1638,"scrollY":879},
+{"id":2,"expanded":true,"name":"大廳","order":5,"parentId":3,"scrollX":1622,"scrollY":1041},
+{"id":3,"expanded":true,"name":"浮游城-艾恩葛朗特","order":1,"parentId":0,"scrollX":1622,"scrollY":1521},
+{"id":4,"expanded":true,"name":"主世界","order":7,"parentId":0,"scrollX":3101.3333333333335,"scrollY":2922},
+{"id":5,"expanded":false,"name":"武器商店","order":2,"parentId":3,"scrollX":1638,"scrollY":879},
+{"id":6,"expanded":false,"name":"盔甲商店","order":3,"parentId":3,"scrollX":1638,"scrollY":879},
+{"id":7,"expanded":false,"name":"道具商店","order":4,"parentId":3,"scrollX":2184,"scrollY":1172},
+{"id":8,"expanded":true,"name":"路竹的隱藏迷宮","order":8,"parentId":4,"scrollX":1318.6666666666667,"scrollY":1071.3333333333333},
+{"id":9,"expanded":true,"name":"瀑布森林","order":10,"parentId":4,"scrollX":1622,"scrollY":1521},
+{"id":10,"expanded":false,"name":"森林","order":11,"parentId":9,"scrollX":1216.5,"scrollY":780.75},
+{"id":11,"expanded":false,"name":"Mikoの魔王城","order":9,"parentId":8,"scrollX":1092,"scrollY":586},
+{"id":12,"expanded":false,"name":"辦公室 2F","order":13,"parentId":13,"scrollX":816,"scrollY":800},
+{"id":13,"expanded":true,"name":"辦公室 1F","order":12,"parentId":4,"scrollX":816,"scrollY":640}
+]

@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["這件商品很適合你呢"]},{"code":401,"indent":0,"parameters":["請參考看看"]},{"code":0,"indent":0,"parameters":[]}],"name":"商人","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":231,"indent":0,"parameters":[1,"guonuo",1,0,406,312,100,100,255,0]},{"code":230,"indent":0,"parameters":[60]},{"code":235,"indent":0,"parameters":[1]},{"code":122,"indent":0,"parameters":[2,2,0,3,7,0,0]},{"code":122,"indent":0,"parameters":[3,3,0,3,5,-1,0]},{"code":122,"indent":0,"parameters":[4,4,0,3,5,-1,1]},{"code":202,"indent":0,"parameters":[2,1,2,3,4]},{"code":0,"indent":0,"parameters":[]}],"name":"可攜帶式飛空艇","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":243,"indent":0,"parameters":[]},{"code":242,"indent":0,"parameters":[1]},{"code":261,"indent":0,"parameters":["EXPLOSION"]},{"code":244,"indent":0,"parameters":[]},{"code":339,"indent":0,"parameters":[1,1,10,-2]},{"code":0,"indent":0,"parameters":[]}],"name":"EXPLOSION","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":243,"indent":0,"parameters":[]},{"code":242,"indent":0,"parameters":[1]},{"code":261,"indent":0,"parameters":["DDoS"]},{"code":244,"indent":0,"parameters":[]},{"code":339,"indent":0,"parameters":[1,1,13,-2]},{"code":0,"indent":0,"parameters":[]}],"name":"DDoS","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"Terminal_Emulator","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":102,"indent":0,"parameters":[["小金の專有名詞百科","生物百科"],1,0,1,0]},{"code":402,"indent":0,"parameters":[0,"小金の專有名詞百科"]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"生物百科"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Pedia of Chin","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"東方廚製粽","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":250,"indent":0,"parameters":[{"name":"re0","volume":100,"pitch":100,"pan":0}]},{"code":339,"indent":0,"parameters":[1,3,18,-2]},{"code":0,"indent":0,"parameters":[]}],"name":"死亡回歸","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

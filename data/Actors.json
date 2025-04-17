@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Guonuo","characterIndex":0,"characterName":"Guonuo","classId":3,"equips":[3,0,0,3,0],"faceIndex":6,"faceName":"GuonuoTW","traits":[],"initialLevel":1,"maxLevel":99,"name":"Guonuo","nickname":"社長","note":"","profile":"Guonuo是我大二中資研社社長,身為資研社的驕傲,駭入R星並\n取得GTA6的機密資料一直是他的目標,然而令他想不到的是..."},
+{"id":2,"battlerName":"Sekiro","characterIndex":0,"characterName":"Sekiro","classId":2,"equips":[6,0,0,3,0],"faceIndex":1,"faceName":"Lu_Zhu_Dog","traits":[],"initialLevel":1,"maxLevel":99,"name":"路竹隻狗-暗影雙死","nickname":"路竹狗","note":"","profile":"生長在偏鄉的路竹,把隻狼通關一直是他的夢想,曾說過「再打\n隻狼我就是狗」,對於Guonuo的目標感到嚮往,並決定跟隨他"},
+{"id":3,"battlerName":"Ruje","characterIndex":0,"characterName":"Ruje","classId":4,"equips":[13,0,0,3,0],"faceIndex":0,"faceName":"Ruje","traits":[],"initialLevel":1,"maxLevel":99,"name":"露潔","nickname":"露潔","note":"","profile":"露潔是路竹狗失散多年的妹妹,有一天露潔在路竹的農田跌倒時,\n撞到一個當地的路竹狗,且發現原來他就是露潔尋找多年的哥哥"},
+{"id":4,"battlerName":"Reimu","characterIndex":0,"characterName":"Reimu","classId":1,"equips":[11,1,0,3,0],"faceIndex":7,"faceName":"fumo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fumo","nickname":"Fumo","note":"","profile":"Fumo是一種類靈魂寶石的玩偶型容器,最為純潔專一的東方廚,\n靈魂將慢慢的填充進Fumo內,Fumo則會逐漸有了生命"}
+]
